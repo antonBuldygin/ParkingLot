@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Parking_Lot.Parking_Lot-task-build-classes-java.main" target="11" />
+      <module name="Parking_Lot.Parking_Lot-task-build-classes-kotlin.main" target="11" />
+      <module name="Parking_Lot.Parking_Lot-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Parking_Lot.Parking_Lot-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Parking_Lot.Parking_Lot-task-build-reports-tests.main" target="11" />
+      <module name="Parking_Lot.Parking_Lot-task-build-test-results.main" target="11" />
+      <module name="Parking_Lot.Parking_Lot-task-build-tmp.main" target="11" />
+      <module name="Parking_Lot.Parking_Lot-task.main" target="11" />
+      <module name="Parking_Lot.Topics-Constructors-How_many_primary_constructors.main" target="11" />
+      <module name="Parking_Lot.Topics-Constructors-Implicit_constructor.main" target="11" />
+      <module name="Parking_Lot.Topics-Constructors-Init_usage.main" target="11" />
+      <module name="Parking_Lot.Topics-Constructors-Point2D.main" target="11" />
+      <module name="Parking_Lot.Topics-Constructors-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Data_class-copy___usage.main" target="11" />
+      <module name="Parking_Lot.Topics-Data_class-Illegal_to_override.main" target="11" />
+      <module name="Parking_Lot.Topics-Data_class-Room_mystery.main" target="11" />
+      <module name="Parking_Lot.Topics-Data_class-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Data_class-toString___modification.main" target="11" />
+      <module name="Parking_Lot.Topics-Declaring_classes-Complex_numbers.main" target="11" />
+      <module name="Parking_Lot.Topics-Declaring_classes-Composition.main" target="11" />
+      <module name="Parking_Lot.Topics-Declaring_classes-New_planet.main" target="11" />
+      <module name="Parking_Lot.Topics-Declaring_classes-Operations_on_var_objects.main" target="11" />
+      <module name="Parking_Lot.Topics-Declaring_classes-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Declaring_classes-True_statements.main" target="11" />
+      <module name="Parking_Lot.Topics-Default_arguments-Determine_the_result.main" target="11" />
+      <module name="Parking_Lot.Topics-Default_arguments-Invocation.main" target="11" />
+      <module name="Parking_Lot.Topics-Default_arguments-Invocations.main" target="11" />
+      <module name="Parking_Lot.Topics-Default_arguments-Polynomial.main" target="11" />
+      <module name="Parking_Lot.Topics-Default_arguments-Print_Username.main" target="11" />
+      <module name="Parking_Lot.Topics-Default_arguments-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Functional_decomposition-Calculator_with_four_functions.main" target="11" />
+      <module name="Parking_Lot.Topics-Functional_decomposition-Items_of_functional_decomposition.main" target="11" />
+      <module name="Parking_Lot.Topics-Functional_decomposition-Roots_of_quadratic_equation.main" target="11" />
+      <module name="Parking_Lot.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Getting_substrings-Case_insensitive.main" target="11" />
+      <module name="Parking_Lot.Topics-Getting_substrings-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Inheritance-Create_a_child_class.main" target="11" />
+      <module name="Parking_Lot.Topics-Inheritance-Fix_bugs.main" target="11" />
+      <module name="Parking_Lot.Topics-Inheritance-Keyword.main" target="11" />
+      <module name="Parking_Lot.Topics-Inheritance-Statements_about_inheritance.main" target="11" />
+      <module name="Parking_Lot.Topics-Inheritance-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Member_functions-Bugs_in_a_vinyl_store.main" target="11" />
+      <module name="Parking_Lot.Topics-Member_functions-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Member_functions-Volume_of_a_cube.main" target="11" />
+      <module name="Parking_Lot.Topics-Named_arguments-Deposit.main" target="11" />
+      <module name="Parking_Lot.Topics-Named_arguments-Invocations.main" target="11" />
+      <module name="Parking_Lot.Topics-Named_arguments-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Named_arguments-URL.main" target="11" />
+      <module name="Parking_Lot.Topics-Null_safety-Elvis_throwing_exceptions.main" target="11" />
+      <module name="Parking_Lot.Topics-Null_safety-Fake_operator.main" target="11" />
+      <module name="Parking_Lot.Topics-Null_safety-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Processing_strings-Compression_algorithm.main" target="11" />
+      <module name="Parking_Lot.Topics-Processing_strings-Create_an_euphonious_word.main" target="11" />
+      <module name="Parking_Lot.Topics-Processing_strings-Determine_the_value.main" target="11" />
+      <module name="Parking_Lot.Topics-Processing_strings-Double_characters.main" target="11" />
+      <module name="Parking_Lot.Topics-Processing_strings-Palindrome.main" target="11" />
+      <module name="Parking_Lot.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Scopes-Code_review.main" target="11" />
+      <module name="Parking_Lot.Topics-Scopes-Cyclist.main" target="11" />
+      <module name="Parking_Lot.Topics-Scopes-Power_and_scopes.main" target="11" />
+      <module name="Parking_Lot.Topics-Scopes-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Scopes-Unlucky_one.main" target="11" />
+      <module name="Parking_Lot.Topics-toString__-Inheritance.main" target="11" />
+      <module name="Parking_Lot.Topics-toString__-Mochaccino.main" target="11" />
+      <module name="Parking_Lot.Topics-toString__-Number_of_cups.main" target="11" />
+      <module name="Parking_Lot.Topics-toString__-Tea.main" target="11" />
+      <module name="Parking_Lot.Topics-toString__-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-toString__-toString___types.main" target="11" />
+      <module name="Parking_Lot.Topics-Type_cast_and_smart_cast-Converting_to_string.main" target="11" />
+      <module name="Parking_Lot.Topics-Type_cast_and_smart_cast-Defining_a_variable_type.main" target="11" />
+      <module name="Parking_Lot.Topics-Type_cast_and_smart_cast-In_the_game_only_String.main" target="11" />
+      <module name="Parking_Lot.Topics-Type_cast_and_smart_cast-Theory.main" target="11" />
+      <module name="Parking_Lot.Topics-Type_cast_and_smart_cast-Writing_a_string_counter.main" target="11" />
+      <module name="Parking_Lot.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
